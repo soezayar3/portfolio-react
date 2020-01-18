@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name":"Soe Zayar",
+    "occupation":"(Web Developer)",
+    "description":"Graduated from MTU and interested in web development. Experienced in projects like game development and web development.",
+    "image":"profilepic.jpg",
+    "bio":"I am self learning web developer and familiar with self studying. I'd like to develop web application espicially react apps. I love Javascript, React, NodeJS, ExpressJS and ES6. I can be the effective programmer working with teamwork. ",
+    "contactmessage":"Please feel free to contact with me for collaborating with you, your projects and your company",
+    "email": "soezayarszyar@gmail.com",
+    "phone": "09400495500",
+    "address":{
+      "city":"(Pyinmana)",
+      "state":"(NayPyiTaw)"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/soezayar.zayar.73?ref=bookmarks",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/soezayar3",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am proficient with git and github, html, css , Javascript, jquery, React, NodeJS, ExpressJS, ES6, Ajax, Json, bootstrap and Python",
+    "education":[
+      {
+        "school":"Mandalay Technological University",
+        "degree":"BE.CEIT",
+        "graduated":"February 2020",
+        "description":"I learn communication, teamwork, self studying, technical skills, respect and love at my university."
+      }
+    ],
+    "work":[
+      {
+        "company":"Frontiir (Myanmar Net)",
+        "title":"Internship program ",
+        "years":"Nov 2018 - Jan 2019",
+        "description":"Develop project concepts and maintain optimal workflow. Work with senior developer to manage large, complex design projects for corporate clients. Complete detailed programming and development tasks for NRC Normalization module (Python) Complete detailed programming and development tasks for Bo-Kyar-Thanut Game (Javascript and socket.io)."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Github",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"68%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"NRC Validation and Normalization",
+        "category":"Module for the project Python Myanmar library.",
+        "image":"nrc.png",
+        "url":"https://github.com/soezayar3/python-myanmar"
+      },
+      {
+        "title":"Bo Kyar Thanut",
+        "category":"Real time multiplayer game using NodeJS and SocketIo",
+        "image":"bkt.png",
+        "url":"https://github.com/soezayar3/bkt"
+      },
+      {
+        "title":"Checkers Game",
+        "category":"My final year thesis project for my university.",
+        "image":"checkers.png",
+        "url":"https://github.com/soezayar3/checkers"
+      }
+    ]
+  }
+}
